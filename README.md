@@ -17,7 +17,7 @@ Frontend dasturchi.
 </p>
 
 
-## Ijtimoiy Sahifalar
+## Ijtimoiy Tarmoqlar
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hikmatulloh-abdullayev-42462823b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hikmatullohabdullayev" height="30" width="40" /></a>
@@ -25,6 +25,7 @@ Frontend dasturchi.
 </p>
 
 ## GitHub statistikasi
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmatullohabdullayev&show_icons=true&locale=en&layout=compact" alt="hikmatullohabdullayev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmatullohabdullayev&show_icons=true&locale=en" alt="hikmatullohabdullayev" /></p>
