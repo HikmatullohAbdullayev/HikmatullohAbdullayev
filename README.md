@@ -17,7 +17,7 @@ Frontend dasturchi.
 </p>
 
 
-## Sahifalar
+## Ijtimoiy Sahifalar
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hikmatulloh-abdullayev-42462823b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hikmatullohabdullayev" height="30" width="40" /></a>
