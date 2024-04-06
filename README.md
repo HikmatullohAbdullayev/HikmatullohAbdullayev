@@ -26,10 +26,14 @@ Frontend dasturchi.
 <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a>
     <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="Astro" width="40" height="40"/></a>
+    <img src="https://www.wappalyzer.com/images/icons/Astro.svg" alt="Astro" width="40" height="40"/></a>
 
 <a href="https://mui.com" target="_blank" rel="noreferrer">
-    <img src="https://ia902203.us.archive.org/5/items/github.com-mui-material-ui_-_2022-02-26_17-47-28/cover.jpg" alt="MUI" width="40" height="40"/></a>
+    <img src="https://www.wappalyzer.com/images/icons/MUI.svg" alt="MUI" width="40" height="40"/></a>
+    <a href="https://styled-components.com" target="_blank" rel="noreferrer">
+    <img src="https://www.wappalyzer.com/images/icons/styled-components.svg" alt="Styled Components" width="40" height="40"/></a>
+    <a href="https://www.zod.dev" target="_blank" rel="noreferrer">
+    <img src="https://zod.dev/logo.svg" alt="Zod" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -41,13 +45,17 @@ Frontend dasturchi.
 </p>
 
 
-## Ijtimoiy Tarmoqlar
+## Ijtimoiy Tarmoqlar va Email
 
 <p align="left">
+ <a href="https://t.me/HikmatullohAbdullayev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="30" width="40" /></a>
 <a href="https://twitter.com/hikmatullo38292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hikmatullo38292" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hikmatulloh-abdullayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hikmatulloh-abdullayev/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/hikmatulloh.abdullayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hikmatulloh.abdullayev" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/hikmatullohabdullayev03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hikmatullohabdullayev03/" height="30" width="40" /></a>
+ <a href="mailto:hikmatullohabdullayev2@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ## GitHub statistikasi
