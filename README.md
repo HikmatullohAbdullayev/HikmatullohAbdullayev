@@ -29,7 +29,7 @@ Frontend dasturchi.
     <img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="Astro" width="40" height="40"/></a>
 
 <a href="https://mui.com" target="_blank" rel="noreferrer">
-    <img src="https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2023/01/MATERIAL-UI.png" alt="MUI" width="40" height="40"/></a>
+    <img src="https://ia902203.us.archive.org/5/items/github.com-mui-material-ui_-_2022-02-26_17-47-28/cover.jpg" alt="MUI" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
