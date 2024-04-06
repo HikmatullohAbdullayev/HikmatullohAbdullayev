@@ -25,6 +25,11 @@ Frontend dasturchi.
     
 <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a>
+    <a href="https://astro.build" target="_blank" rel="noreferrer">
+    <img src="https://example.com/astro-logo.svg" alt="Astro" width="40" height="40"/></a>
+
+<a href="https://mui.com" target="_blank" rel="noreferrer">
+    <img src="https://example.com/mui-logo.svg" alt="MUI" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
