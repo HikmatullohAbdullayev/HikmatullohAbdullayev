@@ -50,12 +50,12 @@ Frontend dasturchi.
 <p align="left">
  <a href="https://t.me/HikmatullohAbdullayev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="30" width="40" /></a>
-<a href="https://twitter.com/hikmatullo38292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hikmatullo38292" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hikmatulloh-abdullayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hikmatulloh-abdullayev/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hikmatulloh.abdullayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hikmatulloh.abdullayev" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hikmatullohabdullayev03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hikmatullohabdullayev03/" height="30" width="40" /></a>
+<a href="https://twitter.com/hikmatullo38292" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="hikmatullo38292" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/hikmatulloh.abdullayev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="https://www.facebook.com/hikmatulloh.abdullayev" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hikmatullohabdullayev03/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="https://www.instagram.com/hikmatullohabdullayev03/" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/hikmatulloh-abdullayev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="https://www.linkedin.com/in/hikmatulloh-abdullayev/" height="30" width="40" /></a>
  <a href="mailto:hikmatullohabdullayev2@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" /></a>
+ 
 </p>
 
 ## GitHub statistikasi
