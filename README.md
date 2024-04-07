@@ -23,10 +23,6 @@ Frontend dasturchi.
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
     
-<-- <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a>
-    <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://www.wappalyzer.com/images/icons/Astro.svg" alt="Astro" width="40" height="40"/></a> -->
 
 <a href="https://mui.com" target="_blank" rel="noreferrer">
     <img src="https://www.wappalyzer.com/images/icons/MUI.svg" alt="MUI" width="40" height="40"/></a>
