@@ -22,8 +22,7 @@ Frontend dasturchi.
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-    
-    <a href="https://styled-components.com" target="_blank" rel="noreferrer">
+<a href="https://styled-components.com" target="_blank" rel="noreferrer">
     <img src="https://www.wappalyzer.com/images/icons/styled-components.svg" alt="Styled Components" width="40" height="40"/></a>
     
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
